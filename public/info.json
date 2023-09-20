@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "title": "Course 1: Introduction to Python",
+    "cover_pic": "https://i.ibb.co/Xz38kFw/python.png",
+    "heading": "Python Fundamentals",
+    "details": "Learn the basics of Python programming, including syntax, data types, and control structures.",
+    "price": "$199",
+    "credit_hours": "3"
+  },
+  {
+    "id": "2",
+    "title": "Course 2: Web Development with HTML/CSS",
+    "cover_pic": "    https://i.ibb.co/ZxRLs84/stock-photo-devops-software-development-it-operation-engineer-work-with-agile-gestures-as-programer.jpg",
+    
+    "heading": "Web Development Essentials",
+    "details": "Master front-end web development using HTML and CSS. Create responsive web pages and layouts.",
+    "price": "$249",
+    "credit_hours": "4"
+  },
+  {
+    "id": "3",
+    "title": "Course 3: Java Programming",
+    "cover_pic": "https://i.ibb.co/thCjV8B/maxresdefault.jpg",
+    
+    "heading": "Advanced Java",
+    "details": "In-depth Java programming course for software developers. Cover object-oriented concepts and more.",
+    "price": "$299",
+    "credit_hours": "4"
+  },
+  {
+    "id": "4",
+    "title": "Course 4: Data Science with Python",
+    "cover_pic": "https://i.ibb.co/94dgKdR/data-science.jpg ",
+   
+    "heading": "Data Analysis and ML",
+    "details": "Explore data analysis and machine learning using Python. Hands-on projects included.",
+    "price": "$349",
+    "credit_hours": "5"
+  },
+  {
+    "id": "5",
+    "title": "Course 5: Mobile App Development with Flutter",
+    "cover_pic": "https://i.ibb.co/7g0NqTz/problem-solving.png",
+    "heading": "Flutter and Dart",
+    "details": "Build cross-platform mobile apps with Flutter and Dart. Real-world app development experience.",
+    "price": "$299",
+    "credit_hours": "4"
+  },
+  {
+    "id": "6",
+    "title": "Course 6: C# Game Development",
+    "cover_pic": "https://i.ibb.co/zf4qjN6/gamer.jpg",
+    
+    "heading": "Game Development",
+    "details": "Create 2D and 3D games using C# and Unity. Game design principles and mechanics covered.",
+    "price": "$349",
+    "credit_hours": "5"
+  },
+  {
+    "id": "7",
+    "title": "Course 7: Full-Stack Web Development",
+    "cover_pic": "https://i.ibb.co/47tGrLy/programmer.jpg ",
+    "heading": "Full-Stack Skills",
+    "details": "Learn front-end and back-end web development technologies. Build dynamic web applications.",
+    "price": "$399",
+    "credit_hours": "6"
+  },
+  {
+    "id": "8",
+    "title": "Course 8: Advanced JavaScript",
+    "cover_pic": "https://i.ibb.co/qJfFZjJ/advanced-javascript-concepts-cover-photo-new.png",
+    "heading": "Advanced JS Concepts",
+    "details": "Take your JavaScript skills to the next level with advanced concepts and best practices.",
+    "price": "$249",
+    "credit_hours": "4"
+  },
+  {
+    "id": "9",
+    "title": "Course 9: DevOps and Continuous Integration",
+    "cover_pic": "https://i.ibb.co/QFnvc68/mathematics-concept-illustration-114360-4288.jpg",
+    "heading": "DevOps Practices",
+    "details": "Master DevOps practices and continuous integration/continuous deployment (CI/CD) pipelines.",
+    "price": "$299",
+    "credit_hours": "4"
+  }
+]
